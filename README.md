@@ -6,7 +6,7 @@ de Rede está ABERTO ou FECHADO; enviar essa informação via Internet utilizand
 Queuing Telemetry Transport) para um servidor MQTT hospedado na Amazon Web Service (AWS) e exibir a informação
 em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaixo.
 
-![img1](/1.PNG)
+![img1](/imagens/1.PNG)
 
 ## ultilizando as bibliotecas
 
@@ -22,4 +22,10 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 ## Circuito
 
-![img2](/2.PNG)
+![img2](imagens/2.PNG)
+
+http://www.linkedin.com/in/lucas-costa-391919197
+![linkedin](imagens/linkedin.jpg)
+
+
+autor: lucas santos
