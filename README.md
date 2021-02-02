@@ -8,3 +8,18 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 ![img1](/1.PNG)
 
+## ultilizando as bibliotecas
+
+* UIPEthernet (conexão do ENC28J60 com o Arduino)
+* PubSubClient (cliente MQTT para o Arduino)
+
+## Materiais
+
+* Arduino Uno
+* Módulo Ethernet (ENC28J60)
+* Sensor Magnético (MC-38)
+* Jumpers
+
+## Circuito
+
+![img2](/2.PNG)
