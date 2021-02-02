@@ -28,3 +28,6 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 
 autor: lucas santos
+
+http://github.com - automatic!
+[GitHub](http://github.com)
