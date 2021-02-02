@@ -6,5 +6,5 @@ de Rede está ABERTO ou FECHADO; enviar essa informação via Internet utilizand
 Queuing Telemetry Transport) para um servidor MQTT hospedado na Amazon Web Service (AWS) e exibir a informação
 em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaixo.
 
-![GitHub Logo](..\Pictures\1.PNG)
+![GitHub Logo](/Pictures/1.PNG)
 
