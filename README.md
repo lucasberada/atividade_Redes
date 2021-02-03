@@ -10,7 +10,8 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 ## ultilizando as bibliotecas
 
-* UIPEthernet (conexão do ENC28J60 com o Arduino)
+
+[* UIPEthernet (conexão do ENC28J60 com o Arduino)]( https://github.com/UIPEthernet/UIPEthernet/archive/v2.0.9.zip.)
 * PubSubClient (cliente MQTT para o Arduino)
 
 ## Materiais
