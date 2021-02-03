@@ -27,5 +27,5 @@ em um cliente MQTT (MQTT Dash) instalado em um Smartphone, conforme imagem abaix
 
 autor: Lucas Santos
 
-[LinkedIn](http://www.linkedin.com/in/lucas-costa-391919197)
+[Linkedin](http://www.linkedin.com/in/lucas-costa-391919197)
 
