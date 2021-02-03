@@ -27,26 +27,10 @@ void setup() {
   
   mqttClient.setServer("54.144.190.205",1883);
 
- /*retorna o ip do arduino*/
-  Serial.print("o ip do arduino e:");
-  Serial.println(Ethernet.localIP());
-  
-  /*retorna a masara de rede*/
-  Serial.print("a mascara de rede do arduino e:");
-  Serial.println(Ethernet.subnetMask());
-  
-  /*retorna o gateway*/
-  Serial.print("o gateway do arduino e:");
-  Serial.println(Ethernet.gatewayIP());
-
   pinMode(pino2,INPUT_PULLUP);
-  Serial.begin(9600);
-
   
 
 }
-
-
 
 
 
@@ -58,13 +42,15 @@ void loop() {
  /*se o estado do sensor for = a 0 ele executa esse trecho*/
   if(estado_sensor == 0){
   message = mqttClient.publish("lucasSantos_t","esta fechado");
+  Serial.println("esta fechado");
   }else{
     /*caso nao seja  = a 0 ele executa esse*/
    message = mqttClient.publish("lucasSantos_t","esta aberto");
+   Serial.println("esta aberto");
    }
    
  mqttClient.loop();
 
  
- 
+
 }
